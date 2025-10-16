@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Dashboard</string>
+    <string name="revenue">Revenue</string>
+    <string name="users">Users</string>
+    <string name="conversion">Conversion</string>
+    <string name="growth">Growth</string>
+    <string name="revenue_details">Monthly revenue increased by 15% compared to last month. Total revenue: $1.2M. Key drivers: Product sales (60%), Services (25%), Subscriptions (15%).</string>
+    <string name="users_details">Active users: 45,678. New signups: 2,345 this month. User retention rate: 78%. Top regions: North America (45%), Europe (30%), Asia (25%).</string>
+    <string name="conversion_details">Conversion rate: 3.4%. Improved by 0.5% from last quarter. Funnel analysis: Visitors (100K) → Leads (8.5K) → Customers (3.4K).</string>
+    <string name="growth_details">Quarterly growth: 12%. Year-over-year growth: 28%. Market share: 15%. Projected next quarter growth: 10-14%.</string>
+    <string name="select_metric">Select a metric to view detailed information</string>
+</resources>
